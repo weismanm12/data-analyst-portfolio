@@ -1,2 +1,9 @@
-# data-analyst-portfolio
-Collection of personal data analytics projects
+# Data Analyst Portfolio
+
+## Introduction
+
+## Projects
+
+### Personal Finance Database and Dashboard
+
+### Analyzing Movie Data IMDb
