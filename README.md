@@ -1,10 +1,8 @@
-# Data Analyst Portfolio
+# Data Analytics Portfolio
 
 ## Introduction
 
-Hello!
-
-My name is Matthew Weisman and this is my data analysis project portfolio.
+My name is Matthew Weisman and welcome to my data analytics porfolio.
 
 Within this portfolio, you'll find links to my completed data analysis projects, each showcasing a range of analytical skills. From data cleaning and validation to data wrangling, database development, exploratory analysis, statistical analysis, data visualization, and dashboarding, these projects encompass a wide array of data-related tasks.
 
@@ -16,7 +14,7 @@ Thank you for visiting, and I hope you find my data analysis journey intriguing!
 
 ## About Me
 
-As an aspiring data analyst, I have a strong passion for working with data. During my college years at the University of Dayton, where I majored in Accounting with a minor in Management Information Systems, I discovered my interest in data analysis during internships in corporate and public accounting. I spent a great deal of time in these internships performing financial analysis, which led me to discover that what I enjoyed most was working hands-on with data, using it to find insight and answer business questions. This experience led me to explore the world of analytics and pursue more advanced analysis skills.
+As an aspiring data analyst, I have a strong passion for working with data. During my college years at the University of Dayton, where I majored in Accounting with a minor in Management Information Systems, I discovered my interest in data analysis while completing internships in corporate and public accounting. I spent a great deal of time in these internships performing financial analysis, which led me to discover that what I enjoyed most was working hands-on with data, using it to find insight and answer business questions. This experience led me to explore the world of analytics and pursue more advanced analysis skills.
 
 Through a combination of formal education, work experience, and online learning, I have gained knowledge in tools such as SQL, Python, Power BI, Tableau, and Excel. I have practical experience with SQL (MySQL, PostgreSQL) and Python (NumPy, Pandas, Matplotlib/Seaborn) for seamless data manipulation, analysis, and visualization. Additionally, I am proficient in creating dashboards using Power BI and Tableau, along with conducting smaller-scale analyses in Excel. I also hold a [Data Analyst Associate certification from DataCamp](https://app.datacamp.com/certification), which validated my skills and knowledge. Besides my technical expertise, I have effectively communicated my analytical findings to business stakeholders through formal presentations. 
 
