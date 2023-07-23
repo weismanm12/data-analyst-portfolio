@@ -27,15 +27,21 @@ My primary aim is to leverage these analytical skills to uncover valuable insigh
 
 In this project, I developed a MySQL database to keep track of all my financial data and enable analysis, along with a Power BI dashboard to visualize spending trends. I extracted all transactions from my bank website and developed custom Python scrips to automate the bulk of the ETL process, allowing for easy maintenance of the database. SQL views were also created to act as reports to track KPIs such as monthly spending, spending by category, and changes in account balances. Additionally, the dashboard was linked directly to the MySQL database, providing valueable up to date insights in a visual manner. Note that the data in this project has been falsified to preserve privacy.
 
+**Repository Link**: [finances-database](https://github.com/weismanm12/finances-database)
+
 **Technologies/Packages**:  SQL (MySQL), Python, Pandas, Numpy, SQLAlchemy, Power BI, DAX
+
 **Skills**: Data Modeling, Database Development, Data Wrangling, Data Cleaning, ETL, Exploratory Data Analysis (EDA), Dashboarding/Data Visualization
 
-Click [here](https://github.com/weismanm12/finances-database) to view this project
+
+<br> 
+
 
 ### [Analyzing Movie Data With IMDb](https://github.com/weismanm12/movies-analysis)
 This project involved processing and analyzing movie data from the popular online movie database, IMDb. I extracted the [public IMDb datsets](https://developer.imdb.com/non-commercial-datasets/), cleaned and transformed this data via Python, then created a PostgreSQL database to store the data. I then performed analysis via a combination of SQL queries and Python code to find trends in movie production, audience reception, and actor likeness.
 
-**Technologies/Packages**: SQL (PostgreSQL), Python, Pandas, Numpy, SQLAlchemy, Matplotlib, Seaborn
-**Skills**: Exploratory Data Analysis (EDA), Statistical Analysis, Data Cleaning/Validation, Data Transformation, Database Development, Data Wrangling
+**Repository Link**: [movies-analysis](https://github.com/weismanm12/movies-analysis)
 
-Click [here](https://github.com/weismanm12/movies-analysis) to view this project.
+**Technologies/Packages**: SQL (PostgreSQL), Python, Pandas, Numpy, SQLAlchemy, Matplotlib, Seaborn
+
+**Skills**: Exploratory Data Analysis (EDA), Statistical Analysis, Data Cleaning/Validation, Data Transformation, Database Development, Data Wrangling
