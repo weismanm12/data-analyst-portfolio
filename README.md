@@ -17,8 +17,12 @@ Thank you for visiting, and I hope you find my data analysis journey intriguing!
 ## Projects
 
 ### [Personal Finance Database and Dashboard](https://github.com/weismanm12/finances-database)
+
 In this project, I developed a MySQL database to keep track of all my financial data and enable analysis, along with a Power BI dashboard to visualize spending trends. I extracted all transactions from my bank website and developed custom Python scrips to automate the bulk of the ETL process, allowing for easy maintenance of the database. SQL views were also created to act as reports to track KPIs such as monthly spending, spending by category, and changes in account balances. Additionally, the dashboard was linked directly to the MySQL database, providing valueable up to date insights in a visual manner. 
 
 Click [here](https://github.com/weismanm12/finances-database) to view this project
 
 ### Analyzing Movie Data With IMDb
+This project involved processing and analyzing movie data from the popular online movie database, IMDb. I extracted the [public public IMDb datsets](https://developer.imdb.com/non-commercial-datasets/), cleaned and transformed this data via Python, then created a PostgreSQL database to store the data. I then performed analysis via a combination of SQL queries and Python code to find trends in movie production, audience reception, and actor likeness.
+
+Click [here](https://github.com/weismanm12/movies-analysis) to view this project.
