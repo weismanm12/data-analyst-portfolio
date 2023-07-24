@@ -47,4 +47,4 @@ This project involved processing and analyzing movie data from the popular onlin
 
 **Technologies/Packages**: SQL (PostgreSQL), Python, Pandas, NumPy, SQLAlchemy, Matplotlib, Seaborn
 
-**Skills**: Exploratory Data Analysis (EDA), Statistical Analysis, Data Cleaning/Validation, Data Transformation, Database Development, Data Wrangling
+**Skills**: Exploratory Data Analysis (EDA), Statistical Analysis, Data Visualization, Data Cleaning/Validation, Data Transformation, Database Development, Data Wrangling
