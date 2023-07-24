@@ -25,7 +25,7 @@ My primary aim is to leverage these analytical skills to uncover valuable insigh
 
 ### [Personal Finance Database and Dashboard](https://github.com/weismanm12/finances-database)
 
-In this project, I developed a MySQL database to keep track of all my financial data and enable analysis, along with a Power BI dashboard to visualize spending trends. I extracted all transactions from my bank website and developed custom Python scrips to automate the bulk of the ETL process, allowing for easy maintenance of the database. SQL views were also created to act as reports to track KPIs such as monthly spending, spending by category, and changes in account balances. Additionally, the dashboard was linked directly to the MySQL database, providing valueable up to date insights in a visual manner. Note that the data in this project has been falsified to preserve privacy.
+In this project, I developed a MySQL database to keep track of all my financial data and enable analysis, along with a Power BI dashboard to visualize spending trends. I extracted all transactions from my bank website and developed custom Python scripts to automate the bulk of the ETL process, allowing for easy maintenance of the database. SQL views were also created to act as reports, tracking KPI's such as monthly spending, spending by category, and changes in account balances. Additionally, the dashboard was linked directly to the MySQL database, providing valueable up to-date-insights in a visual manner. Note that the data in this project has been falsified to preserve privacy.
 
 **Repository Link**: [finances-database](https://github.com/weismanm12/finances-database)
 
