@@ -41,7 +41,7 @@ In this project, I developed a MySQL database to keep track of all my financial 
 
 
 ### [Analyzing Movie Data With IMDb](https://github.com/weismanm12/movies-analysis)
-This project involved processing and analyzing movie data from the popular online movie database, IMDb. I extracted [public IMDb datasets](https://developer.imdb.com/non-commercial-datasets/), cleaned and transformed this data via Python, then created a PostgreSQL database to store the data. I then performed analysis using a combination of SQL queries and Python code to find trends in movie production, audience reception, and actor likeness.
+This project involved processing and analyzing movie data from the popular online movie database, IMDb. I extracted [public IMDb datasets](https://developer.imdb.com/non-commercial-datasets/), cleaned and transformed this data via Python, stored the data in a PostgreSQL database I created. I then performed analysis using a combination of SQL queries and Python code to find trends in movie production, audience reception, and actor likeness.
 
 **Repository Link**: [movies-analysis](https://github.com/weismanm12/movies-analysis)
 
