@@ -14,15 +14,31 @@ In the [projects section](#projects), you'll find summaries of each project, alo
 
 Thank you for visiting, and I hope you find my data analysis journey intriguing!
 
+---
+
 ## About Me
 
-As an aspiring data analyst, I have a strong passion for working with data. During my college years at the University of Dayton, where I majored in Accounting with a minor in Management Information Systems, I discovered my interest in data analysis through internships in corporate and public accounting. The time I spent performing financial analysis during these internships led me to realize my genuine enjoyment in hands-on data work and using it to find insights and solutions for business questions. This discovery sparked my curiosity to explore the field of analytics further and enhance my data analysis skills.
+As an aspiring data analyst, I have a strong passion for working with data. During my college years at the University of Dayton, where I majored in Accounting with a minor in Management Information Systems, I first discovered my interest in data analysis through internships in corporate and public accounting. Much of the work I performed during these positions involved financial data analysis, which led me to realize my genuine enjoyment in hands-on using data to find extract insights and answer business questions. This discovery sparked my curiosity to explore the field of analytics further and enhance my data analysis skills.
 
-Through a combination of formal education, work experience, and online learning, I have gained knowledge in tools such as SQL, Python, Power BI, Tableau, and Excel. I have practical experience with SQL (MySQL, PostgreSQL) and Python (NumPy, Pandas, Matplotlib/Seaborn) for seamless data manipulation, analysis, and visualization. Additionally, I am proficient in creating dashboards using Power BI and Tableau, along with conducting smaller-scale analyses in Excel. I also hold a [Data Analyst Associate certification from DataCamp](https://app.datacamp.com/certification), which validated my skills and knowledge. Besides my technical expertise, I have effectively communicated my analytical findings to business stakeholders through formal presentations. 
+Through a combination of formal education, work experience, and online learning, I have gained knowledge in tools such as SQL (PostgreSQL, MySQL), Python (NumPy, Pandas, Matplotlib/Seaborn), Power BI, Tableau, and Excel. I have professional experience as a Data Analyst at the MathCompany applying these skills to perform data manipulation, analysis, visualization, and develop machine learning algorithms. I also hold a [Data Analyst Associate certification from DataCamp](https://app.datacamp.com/certification), which validated my skills and knowledge. Besides my technical expertise, I have effectively communicated my analytical findings to business stakeholders through formal presentations. 
 
-My primary aim is to leverage these analytical skills to uncover valuable insights and make a meaningful impact at a company through data analysis. For employment inquires, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/matthewweisman2022
-) or by email at weismanm12@gmail.com.
+My primary aim is to leverage these analytical skills to uncover valuable insights and make a meaningful impact at a company through data analysis. For employment inquires, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/matthewweisman2022) or by email at weismanm12@gmail.com.
 
+---
+
+## Skills
+
+- SQL (PostgreSQL, MySQL)
+- Python (Pandas, NumPy, MatplotLib/Seaborn)
+- Power BI
+- Tableau
+- Excel
+- Data Cleaning/Validation
+- Exploratory Data Analysis
+- Statistical Analysis
+- Database Design
+
+---
 
 ## Projects
 
@@ -41,7 +57,7 @@ In this project, I developed a MySQL database to keep track of all my financial 
 
 
 ### [Analyzing Movie Data From IMDb](https://github.com/weismanm12/movies-analysis)
-This project involved processing and analyzing movie data from the popular online movie database, IMDb. I extracted [public IMDb datasets](https://developer.imdb.com/non-commercial-datasets/), cleaned and transformed this data via Python, stored the data in a PostgreSQL database I created. I then performed analysis using a combination of SQL queries and Python code to find trends in movie production, audience reception, and actor likeness.
+This project involved processing and analyzing movie data from the popular online movie database, IMDb. I extracted [public IMDb datasets](https://developer.imdb.com/non-commercial-datasets/), cleaned and transformed this data via Python, and stored the data in a PostgreSQL database I created. I then performed analysis using a combination of SQL queries and Python code to find trends in movie production, audience reception, and actor likeness.
 
 **Repository Link**: [movies-analysis](https://github.com/weismanm12/movies-analysis)
 
