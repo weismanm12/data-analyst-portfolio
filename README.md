@@ -48,7 +48,7 @@ In this project, I developed a MySQL database to keep track of all my financial 
 
 **Repository Link**: [finances-database](https://github.com/weismanm12/finances-database)
 
-**Technologies/Packages**:  SQL (MySQL), Python, Pandas, NumPy, SQLAlchemy, Power BI, DAX
+**Technologies/Packages**:  SQL (MySQL), Python (Pandas, NumPy, SQLAlchemy), Power BI, DAX
 
 **Skills**: Data Modeling, Database Development, Data Wrangling, Data Cleaning, ETL, Exploratory Data Analysis (EDA), Dashboarding/Data Visualization
 
@@ -61,6 +61,6 @@ This project involved processing and analyzing movie data from the popular onlin
 
 **Repository Link**: [movies-analysis](https://github.com/weismanm12/movies-analysis)
 
-**Technologies/Packages**: SQL (PostgreSQL), Python, Pandas, NumPy, SQLAlchemy, Matplotlib, Seaborn
+**Technologies/Packages**: SQL (PostgreSQL), Python (Pandas, NumPy, SQLAlchemy, Matplotlib, Seaborn)
 
 **Skills**: Exploratory Data Analysis (EDA), Statistical Analysis, Data Visualization, Data Cleaning/Validation, Data Transformation, Database Development, Data Wrangling
