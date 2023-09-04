@@ -34,8 +34,9 @@ My primary aim is to leverage these analytical skills to uncover valuable insigh
 - Tableau
 - Excel
 - Data Cleaning/Validation
-- Exploratory Data Analysis
+- Exploratory Data Analysis (EDA)
 - Statistical Analysis
+- Data Visualization
 - Database Design
 
 ---
