@@ -22,7 +22,7 @@ As an aspiring data analyst, I have a strong passion for working with data. Duri
 
 Through a combination of formal education, work experience, and online learning, I have gained knowledge in tools such as SQL (PostgreSQL, MySQL), Python (NumPy, Pandas, Matplotlib/Seaborn, Scikit-Learn), Power BI, Tableau, and Excel. I have professional experience as a Data Analyst at the MathCompany applying these skills to perform data manipulation, analysis, visualization, and develop machine learning algorithms. I also hold a [Data Analyst Associate certification from DataCamp](https://app.datacamp.com/certification), which validated my skills and knowledge. Besides my technical expertise, I have also effectively communicated my analytical findings to business stakeholders through formal presentations. 
 
-My primary aim is to leverage these analytical skills to uncover valuable insights and make a meaningful impact at a company through data analysis. For employment inquires, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/matthewweisman2022) or by email at weismanm12@gmail.com.
+My primary aim is to leverage these analytical skills to uncover valuable insights and make a meaningful impact at a company through data analysis. For employment inquires, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/weismanm) or by email at weismanm12@gmail.com.
 
 ---
 
