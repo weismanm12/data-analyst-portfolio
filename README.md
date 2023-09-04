@@ -68,7 +68,7 @@ This project involved processing and analyzing movie data from the popular onlin
 
 <br>
 
-### 3. [Online Retailer EDA and Marketing KPIs](https://github.com/weismanm12/retailer-eda-and-marketing-kpis)
+### 3. [Online Retailer EDA and Marketing KPIs Tracking](https://github.com/weismanm12/retailer-eda-and-marketing-kpis)
 
 In this project, I analyzed two years of sales data from a fictional UK-based online retailer. I performed exploratory analysis to exam sales trends, such as sales by category, country, sales over time. I then wrote a Python script to streamline the generation of a marketing metrics report, calculating various different marketing metrics per quarter and evaluating the success of marketing operations.
 
