@@ -75,4 +75,4 @@ In this project, I analyzed two years of sales data from a fictional UK-based on
 
 **Technologies/Tools**: Python (Pandas, NumPy, Matplotlib, Seaborn)
 
-**Skills**: Cleaning/Validation, Exploratory Data Analysis (EDA), Marketing Analytics, Data Visualization, Report Generation
+**Skills**: Data Cleaning/Validation, Exploratory Data Analysis (EDA), Marketing Analytics, Data Visualization, Report Generation
