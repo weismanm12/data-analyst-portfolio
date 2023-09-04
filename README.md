@@ -29,7 +29,7 @@ My primary aim is to leverage these analytical skills to uncover valuable insigh
 ## Skills
 
 - SQL (PostgreSQL, MySQL)
-- Python (Pandas, NumPy, MatplotLib/Seaborn, Scikit-Learn)
+- Python (Pandas, NumPy, MatplotLib, Seaborn, Scikit-Learn)
 - Power BI
 - Tableau
 - Excel
